@@ -25,4 +25,3 @@ Ensure that the data files you store in this repository have the necessary permi
 
 ## Support
 
-If you encounter any issues with accessing the data or need further assistance, feel free to reach out.
